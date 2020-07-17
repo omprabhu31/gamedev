@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gamedev Courses
-permalink: /gamedev/courses/
+permalink: /courses/
 feature-img: "assets/img/sample_feature_img_3.png"
 hide: true
 ---
