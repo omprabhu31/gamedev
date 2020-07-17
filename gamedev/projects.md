@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gamedev Projects
-permalink: /gamedev/projects/
+permalink: /projects/
 feature-img: "assets/img/sample_feature_img_3.png"
 hide: true
 ---
