@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Gamedev
-permalink: /gamedev/
 hide: true
 ---
 
