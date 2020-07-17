@@ -1,5 +1,6 @@
 # SITE CONFIGURATION
  url: "https://omprabhu31.github.io/"
+ baseurl: "/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
