@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}About myself}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Motivation}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Overview of Game Development}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Factors to consider before starting out}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Hierarchy of game structure}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Team structure and roles}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}The Unity3D Engine}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Unity3D interface and configuration}{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Basic Concepts}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Game graphics concepts}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Game audio concepts}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Solar System Simulation}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Importing assets into Unity}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Game objects and the transform component}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Adding behaviour to game objects}{11}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Adding scripts}{11}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Adjusting script parameters}{11}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Parent-child relationships}{12}{subsubsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.4}Adding materials, lighting and audio}{12}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Adding materials}{12}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Adding lighting}{13}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Adding audio}{15}{subsubsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.5}Adding cameras and adjusting views}{16}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Finishing, building and deploying a project}{18}{subsection.5.6}%
+\contentsline {section}{\numberline {6}Roller Madness}{19}{section.6}%
+\contentsline {section}{\numberline {7}Box Shooter}{20}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Unity programming concepts}{20}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Referencing gameObjects in scripts}{21}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Referencing components in scripts}{22}{subsubsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.2}Setting things up}{22}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Using scripts to move objects}{23}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Basic object movement}{23}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}\texttt {bool} datatype and \texttt {if} statements}{23}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3}\texttt {enum} datatype and \texttt {switch} statements}{24}{subsubsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.4}Player, camera, projectiles and shooting}{25}{subsection.7.4}%
