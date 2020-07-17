@@ -18,7 +18,7 @@ Finally, you can also check some of my projects [here](/gamedev/projects) along 
 > Offered by [Michigan State University](https://msu.edu/) on [Coursera](https://www.coursera.org) - [Link](https://www.coursera.org/specializations/game-development)
 >
 > 1. Introduction to Game Development - [Link](https://www.coursera.org/learn/game-development?specialization=game-development)
-> 	* Documentation - [.pdf](/gamedev/notes/gamedev_intro/intro_to_gamedev.pdf) / [.tex](https://github.com/omprabhu31/omprabhu31.github.io/tree/master/gamedev/notes/gamedev_intro/intro_to_gamedev.tex)
+> 	* Documentation - [.pdf](/gamedev/notes/gamedev_intro/intro_to_gamedev.pdf) / [.tex](https://github.com/omprabhu31/gamedev/blob/master/notes/gamedev_intro/intro_to_gamedev.tex)
 > 2. Principles of Game Design - [Link](https://www.coursera.org/learn/gamedesign?specialization=game-development)
 > 3. Business of Games and Entrepreneurship - [Link](https://www.coursera.org/learn/gamedev-business?specialization=game-development)
 > 4. Game Development for Modern Platforms - [Link](https://www.coursera.org/learn/gamedev-platforms?specialization=game-development)
