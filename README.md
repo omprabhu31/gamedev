@@ -1,3 +1,7 @@
+---
+hide: true
+---
+
 # Gamedev
 
 Hey there, welcome to my gamedev page. Since I'm currently stuck at home due to the ongoing SARS-CoV-2 pandemic (and hella bored), I definitely have a lot of time to play video games. However, I figured why not try out making games instead of just playing them?
