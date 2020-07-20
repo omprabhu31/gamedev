@@ -6,8 +6,6 @@ feature-img: "assets/img/sample_feature_img_3.png"
 hide: true
 ---
 
-Let's face it - quarantine is super long and boring. Naturally, I've had way more time to play games - and while there isn't a limit to how much I can play, sadly there is one as to how many games I can buy and download. Between all this I figured that instead of just playing games, I might as well give a shot at making them.
-
 I am currently taking a set of 5 courses in Game Design & Development. I've been maintaining some handy documentation over the course of the courses (sorry, I couldn't resist), which is mainly to provide myself with a better understanding of the coursework. As I progress in each course, I will make sure to upload and update it from time to time.
 
 Finally, you can also check some of my projects [here](/gamedev/projects) along with all the Unity3D project files.
