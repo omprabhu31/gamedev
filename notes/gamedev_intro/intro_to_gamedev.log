@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.11)  16 JUL 2020 12:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.11)  23 JUL 2020 15:06
 entering extended mode
 **./intro_to_gamedev.tex
 (intro_to_gamedev.tex
@@ -822,7 +822,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 570.
  ) 
 Here is how much of TeX's memory you used:
  10785 strings out of 480790
- 177782 string characters out of 2893515
+ 177635 string characters out of 2893515
  588844 words of memory out of 3000000
  26434 multiletter control sequences out of 15000+200000
  542360 words of font info for 62 fonts, out of 3000000 for 9000
@@ -839,7 +839,7 @@ sfonts/cm/cmr12.pfb><C:/Users/Om Prabhu/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Om Prabhu/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Om Prabhu/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on intro_to_gamedev.pdf (25 pages, 9328090 bytes).
+Output written on intro_to_gamedev.pdf (25 pages, 9328128 bytes).
 PDF statistics:
  463 PDF objects out of 1000 (max. 8388607)
  112 named destinations out of 1000 (max. 500000)
