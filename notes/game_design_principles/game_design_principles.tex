@@ -1,0 +1,106 @@
+\documentclass{article}[a4paper,12pt]
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm,amsfonts,mathtools}
+\usepackage[inline]{enumitem}
+\usepackage{soul}
+\usepackage{cancel}
+\usepackage{hyperref}
+\usepackage{centernot}
+\usepackage{pifont}
+\usepackage{changepage}
+\usepackage{subcaption}
+\usepackage[section]{placeins}
+\usepackage{lipsum, graphicx, caption}
+\usepackage{float}
+\usepackage{commath}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\theoremstyle{definition}
+\newtheorem{innercustomgeneric}{\customgenericname}
+\providecommand{\customgenericname}{}
+\newcommand{\newcustomtheorem}[2]{%
+  \newenvironment{#1}[1]
+  {%
+   \renewcommand\customgenericname{#2}%
+   \renewcommand\theinnercustomgeneric{##1}%
+   \innercustomgeneric
+  }
+  {\endinnercustomgeneric}
+}
+\newcustomtheorem{customthm}{Theorem}
+\newcustomtheorem{customlem}{Lemma}
+\newcustomtheorem{customdefn}{Definition}
+\newcustomtheorem{customprop}{Proposition}
+\newcustomtheorem{customexer}{Exercise}
+\renewcommand{\qedsymbol}{$\blacksquare$}
+
+\setlength\parindent{0pt}
+\let\emptyset\varnothing
+\usepackage{geometry}
+\geometry{
+	a4paper, portrait,
+	total = {170mm,257mm},
+	left = 20mm,
+	top = 20mm,
+}
+
+\usepackage{xcolor}
+\usepackage{pagecolor}
+\pagecolor{white}
+\color{black}
+
+\title{\textbf{Introduction to Game Developement}}
+\author{
+	\textbf{Om Prabhu}\\
+	19D170018\\
+	Undergraduate, Department of Energy Science and Engineering\\
+	Indian Institute of Technology Bombay\\}
+\date{Last updated \today}
+
+\begin{document}
+\maketitle
+\vspace{-12pt}
+\hrulefill
+\vspace{6pt}
+
+\textbf{NOTE:} This document is a brief compilation of my notes taken during a course in game design and development. You are free to use it and my project files for your own personal use \& modification. You may check out the course here: \texttt{\href{https://www.coursera.org/learn/game-development?specialization=game-development}{https://www.coursera.org/learn/game-development?specialization=game-development}}.
+
+\hrulefill
+\tableofcontents
+\vspace{6pt}
+
+\hrulefill
+\pagebreak
+
+\section{Introduction}
+\subsection{About myself}
+Hello. I am Om Prabhu, currently an undergrad at the Department of Energy Science and Engineering, IIT Bombay. If you have gone through my website (\texttt{\href{https://omprabhu31.github.io}{https://omprabhu31.github.io}}) earlier, which is probably where you found this document too, you will know that I love playing video games, story-rich titles in particular. I also listen to a lot of music and engage in a little bit of creative writing as and when I get time. With this brief self-introduction, let's get into what actually motivated me to pursue game development.
+
+\subsection{Motivation}
+Most of my motivation for pursuing game development came from playing games itself. I am talking less of titles like \textit{Grand Theft Auto}, generic FPS/RPGs, etc meant purely for self-entertainment and more about games like \textit{Life is Strange}, \textit{When the Darkness Comes}, etc that actually give you some amazing stories and/or simple, powerful messages to be remembered for life. When one has experiences like this, the question naturally hangs at the back of their minds - why not create enriching experiences like this?
+\vspace{6pt}
+
+Now while playing games is vital to understanding what essentially makes a good game, they are two very different things - it's like comparing movie binging to actually making movies. Making games involves a lot of hardwork at different stages of the development process and there is a reason why good game developers take their time (often more than 10 years) before putting out a game on the market.
+\vspace{6pt}
+
+Nevertheless, I decided to give it a shot - the worst that could happen is I could end up hating it, but I hate it during quarantine anyway.
+
+\hrulefill
+\vspace{6pt}
+
+\textbf{NOTE:} This course is the 2nd out of 5 courses in the Game Design \& Development Specialization. Although it is technically a direct follow-up to the 1st course `Introduction to Game Development', it is really more of an independent course which explores the theory behind game design. You may check the documentation for the 1st course here: \texttt{\href{https://omprabhu31.github.io/gamedev/notes/gamedev_intro/intro_to_gamedev.pdf}{Introduction to Game Development}}.
+
+\hrulefill
+\pagebreak
+\section{The Game Design Process}
+Video games are a massively popular form of entertainment. They tell stories, provide interesting experiences, but what sets them apart from other form of entertainment? Other forms of media like movies, books, etc can give you exciting stories and take you to wonderful places. What they cannot do is let you interact and be a part of the experience. Video games create worlds, and they can let you live inside them as well. That's what makes them so powerful and fun.
+\vspace{6pt}
+
+Let us take a moment to understand the concept of `fun'. When we say fun, it's really more complicated than that. What makes a game fun? Why do people play games? Why are games so engaging and what exactly draws people into the world of games?
+
+\hrulefill 
+
+\end{document}
+
