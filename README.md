@@ -1,4 +1,5 @@
 ---
+permalink: /gamedev/
 hide: true
 ---
 
