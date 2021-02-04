@@ -10,7 +10,7 @@ I am currently taking a set of 5 courses in Game Design & Development. I've been
 
 Finally, you can also check some of my projects [here](/gamedev/projects) along with all the Unity3D project files.
 
-<h3>Course Links and Documentation</h3>
+<h3>Course Links and Notes</h3>
 
 > <h4>Game Design and Development Specialization</h4>
 > Offered by [Michigan State University](https://msu.edu/) on [Coursera](https://www.coursera.org) - [Link](https://www.coursera.org/specializations/game-development)
