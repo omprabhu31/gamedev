@@ -12,6 +12,22 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 
 **Note:** I will no longer be providing the source files for a lot of the projects, since the folders are simply too big to upload to GitHub.
 
+> <h3>Run n' Jump Prototype</h3>
+> <i>Made using Unity 2020.3.11f1</i>
+>
+> This was my third project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. A lot of the previous projects had well-defined gameplay but no pizzazz. This projects introduces the ability to add animations, sound and particle effects to the player character, making it feel a lot more playable. It also focuses on manipulating animations and particle systems using code. A lot of the gameplay aspects such as the super speed and double jump abilities would not be possible if not for scripting.
+>
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-69334) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/runandjump)
+
+
+> <h3>CPrototype 3</h3>
+> <i>Made using Unity 2020.3.11f1</i>
+>
+> This was my second project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. It focuses on a lot of integral aspects of basic gameplay including random value generation for instantiating game objects, collision detection to destroy objects, keeping track of player lives and score, etc using code.
+>
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-67470) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/prototype2)
+
+
 > <h3>Car Simulator Prototype</h3>
 > <i>Made using Unity 2020.3.11f1</i>
 >
