@@ -12,10 +12,19 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 
 **Note:** I will no longer be providing the source files for a lot of the projects, since the folders are simply too big to upload to GitHub.
 
-> <h3>Run n' Jump Prototype</h3>
-> <i>Made using Unity 2020.3.11f1</i>
+> <h3>Arcade-Style Sumo Battle Prototype</h3>
+> <i>Made using Unity 2020.3.13f1</i>
 >
-> This was my third project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. A lot of the previous projects had well-defined gameplay but no pizzazz. This projects introduces the ability to add animations, sound and particle effects to the player character, making it feel a lot more playable. It also focuses on manipulating animations and particle systems using code. A lot of the gameplay aspects such as the super speed and double jump abilities would not be possible if not for scripting.
+> This was my fourth project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. It focusses on programming gameplay mechanics, such as enemy behaviour, powerups and enemy waves, which is one of the most integral part of game design. It also introduces the concept of Coroutines, which enable the powerups to only act temporarily.
+> 
+> You play as a cute little sphere on a mystic floating island in the clouds, struggling to fend off the hostile enemies hell-bent on throwing you off. The enemy waves only get tougher, with enemy bosses spawning occasionally. Your goal is to survive as long as possible. This is one of my favourite projects and I had a blast working on it. I hope you will enjoy playing it equally.
+>
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71271)) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/arcadesumobattle)
+
+> <h3>Run n' Jump Prototype</h3>
+> <i>Made using Unity 2020.3.12f1</i>
+>
+> This was my third project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. A lot of the previous projects had well-defined gameplay but no pizzazz. This project introduces the ability to add animations, sound and particle effects to the player character, making it feel a lot more playable. It also focuses on manipulating animations and particle systems using code. A lot of the gameplay aspects such as the super speed and double jump abilities would not be possible if not for scripting.
 >
 > Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-69334) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/runandjump)
 
