@@ -29,7 +29,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 > Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-69334) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/runandjump)
 
 
-> <h3>CPrototype 3</h3>
+> <h3>Prototype 2</h3>
 > <i>Made using Unity 2020.3.11f1</i>
 >
 > This was my second project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. It focuses on a lot of integral aspects of basic gameplay including random value generation for instantiating game objects, collision detection to destroy objects, keeping track of player lives and score, etc using code.
