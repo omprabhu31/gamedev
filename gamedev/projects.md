@@ -19,7 +19,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 > 
 > You play as a cute little sphere on a mystic floating island in the clouds, struggling to fend off the hostile enemies hell-bent on throwing you off. The enemy waves only get tougher, with enemy bosses spawning occasionally. Your goal is to survive as long as possible. This is one of my favourite projects and I had a blast working on it. I hope you will enjoy playing it equally.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71271)) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/arcadesumobattle)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71271) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/arcadesumobattle)
 
 > <h3>Run n' Jump Prototype</h3>
 > <i>Made using Unity 2020.3.12f1</i>
