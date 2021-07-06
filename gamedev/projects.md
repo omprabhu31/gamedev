@@ -6,11 +6,18 @@ feature-img: "assets/img/sample_feature_img_3.png"
 hide: true
 ---
 
-Here is where you can find some of my Unity projects along with their respective project files. Feel free to check them out as well as have a little fun with the games. Alternatively you could check out [my Unity Play page](https://play.unity.com/u/om-prabhu) to access all the games directly.
+Here is where you can find some of my Unity projects along with their respective project files. Feel free to check them out as well as have a little fun with the games. Alternatively you could check out [my Unity Play page](https://play.unity.com/u/nyx318) to access all the games directly.
 
 Note that most web browsers do not support WebGL content (try using Google Chrome or Microsoft Edge). If you encounter any bugs and/or have any suggestions or feedback, please contact me [here](https://forms.gle/za5hyQ4nHnz6FT7R6) and I will make sure to fix them at the earliest.
 
 **Note:** I will no longer be providing the source files for a lot of the projects, since the folders are simply too big to upload to GitHub.
+
+> <h3>Clicky Mouse Prototype</h3>
+> <i>Made using Unity 2020.3.13f1</i>
+>
+> This was my fifth project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. It focusses mainly on user interface elements and getting them to function using programming. Apart from the standard title and game over screens, there are a lot of custom UI elements such as a pause menu, music volume slider, difficulty buttons. Finally, there is also a trail renderer effect for the mouse which gives it kind of a 'Fruit Ninja' feel.
+>
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71963) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/clickymouse)
 
 > <h3>Arcade-Style Sumo Battle Prototype</h3>
 > <i>Made using Unity 2020.3.13f1</i>
