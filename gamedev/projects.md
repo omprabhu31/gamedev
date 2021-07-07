@@ -17,7 +17,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 >
 > This was my fifth project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. It focusses mainly on user interface elements and getting them to function using programming. Apart from the standard title and game over screens, there are a lot of custom UI elements such as a pause menu, music volume slider, difficulty buttons. Finally, there is also a trail renderer effect for the mouse which gives it kind of a 'Fruit Ninja' feel.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71963) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/clickymouse)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71963) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/clickymouse.zip)
 
 > <h3>Arcade-Style Sumo Battle Prototype</h3>
 > <i>Made using Unity 2020.3.13f1</i>
@@ -26,14 +26,14 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 > 
 > You play as a cute little sphere on a mystic floating island in the clouds, struggling to fend off the hostile enemies hell-bent on throwing you off. The enemy waves only get tougher, with enemy bosses spawning occasionally. Your goal is to survive as long as possible. This is one of my favourite projects and I had a blast working on it. I hope you will enjoy playing it equally.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71271) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/arcadesumobattle)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-71271) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/arcadesumobattle.zip)
 
 > <h3>Run n' Jump Prototype</h3>
 > <i>Made using Unity 2020.3.12f1</i>
 >
 > This was my third project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. A lot of the previous projects had well-defined gameplay but no pizzazz. This project introduces the ability to add animations, sound and particle effects to the player character, making it feel a lot more playable. It also focuses on manipulating animations and particle systems using code. A lot of the gameplay aspects such as the super speed and double jump abilities would not be possible if not for scripting.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-69334) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/runandjump)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-69334) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/runandjump.zip)
 
 
 > <h3>Prototype 2</h3>
@@ -41,7 +41,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 >
 > This was my second project as part of the [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) on Unity Learn. It focuses on a lot of integral aspects of basic gameplay including random value generation for instantiating game objects, collision detection to destroy objects, keeping track of player lives and score, etc using code.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-67470) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/prototype2)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-67470) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/prototype2.zip)
 
 
 > <h3>Car Simulator Prototype</h3>
@@ -51,7 +51,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 >
 > If you dig into the project files, you can also find a small airplane simulator which was made as a little challenge provided in the pathway. This level is not accessible in the playable WebGL build.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66170) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/carsimulator)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66170) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/carsimulator.zip)
 
 
 > <h3>2D Platformer Microgame</h3>
@@ -90,7 +90,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 >
 > This was my final project as part of the [Introduction to Game Development](https://www.coursera.org/learn/game-development?specialization=game-development) course - this is where earlier design concepts along with basic programming come together to produce a simple first person shooter. The goal is to reach the target score before time runs out.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66230) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/boxshooter)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66230) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/boxshooter.zip)
 
 
 > <h3>Roller Madness</h3>
@@ -98,7 +98,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 >
 > This was my second project as part of the [Introduction to Game Development](https://www.coursera.org/learn/game-development?specialization=game-development) course - this is where many theory concepts actually come into action while building out a simple but fully functional game. The goal is to collect as many coins as possible while avoiding enemies or the death zone.
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66226) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/rollermadness)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66226) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/rollermadness.zip)
 
 
 > <h3>Solar System Simulation</h3>
@@ -106,4 +106,4 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 >
 > This is a simple solar system simulation - my first project as part of the [Introduction to Game Development](https://www.coursera.org/learn/game-development?specialization=game-development) course. Technically it's not a game, but it introduces many important Unity concepts. It ain't much, but it's honest work!
 >
-> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66217) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/solarsystem)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-66217) / [Project files](https://github.com/omprabhu31/gamedev/tree/master/files/solarsystem.zip)
