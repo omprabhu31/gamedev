@@ -24,7 +24,7 @@ Note that most web browsers do not support WebGL content (try using Google Chrom
 >
 > This simulation has extremely minimal functionality, but that is not the main focus of the project. It serves mainly as an introduction to version control (controlling various versions of a project using GitHub or other software), scene flow (setting up transitions between several in-game scenes) and data persistence (saving certain game parameters between scenes and sessions for later use). For example, the user can change the color of the forklifts, save the color, exit the session and load the color from the previous savefile.
 >
-> Check it out here: [Play the game]https://play.unity.com/mg/other/webgl-builds-73762) / [Project files](https://github.com/omprabhu31/Junior-Programmer-Project)
+> Check it out here: [Play the game](https://play.unity.com/mg/other/webgl-builds-73762) / [Project files](https://github.com/omprabhu31/Junior-Programmer-Project)
 
 > <h3>Clicky Mouse Prototype</h3>
 > <i>Made using Unity 2020.3.13f1</i>
