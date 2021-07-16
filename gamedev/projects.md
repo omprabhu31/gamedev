@@ -10,7 +10,7 @@ Here is where you can find some of my Unity projects along with their respective
 
 Note that most web browsers do not support WebGL content (try using Google Chrome or Microsoft Edge). If you encounter any bugs and/or have any suggestions or feedback, please contact me [here](https://forms.gle/za5hyQ4nHnz6FT7R6) and I will make sure to fix them at the earliest.
 
-**Note:** I will no longer be providing the source files for a lot of the projects, since the folders are simply too big to upload to GitHub.
+**Note:** I will no longer be providing the source files for some projects, since the folders are simply too big to upload to GitHub.
 
 > <h3>Atari Breakout-Style Prototype</h3>
 > <i>Made using Unity 2020.3.13f1</i>

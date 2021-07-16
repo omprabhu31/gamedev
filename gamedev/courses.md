@@ -33,8 +33,8 @@ Finally, you can check out some of my projects and prototypes [here](/gamedev/pr
 > <h4>Make Games without Code - Unity Visual Scripting</h4>
 > Offered by [Code Monkey](https://unitycodemonkey.com/) on [Udemy](https://www.udemy.com/) - [Link](https://www.udemy.com/course/make-games-without-code-unity-visual-scripting/)
 
-> <h4>Complete C# Unity Developer 2D: Learn to Code Making Games</h4>
-> Offered by [GameDev.tv Team](https://www.gamedev.tv/) on [Udemy](https://www.udemy.com/) - [Link](https://www.gamedev.tv/p/learn-c-sharp-unity-developer-2d-for-video-game-development)
+> <h4>Complete C# Unity Game Developer 3D</h4>
+> Offered by [GameDev.tv Team](https://www.gamedev.tv/) on [Udemy](https://www.udemy.com/) - [Link](https://www.udemy.com/course/unitycourse2/)
   
-> <h4>Complete C# Unity Developer 3D: Learn to Code Making Games</h4>
-> Offered by [GameDev.tv Team](https://www.gamedev.tv/) on [Udemy](https://www.udemy.com/) - [Link](https://www.gamedev.tv/p/learn-c-unity-developer-3d-for-video-game-development)
+> <h4>Complete C# Unity Game Developer 2D</h4>
+> Offered by [GameDev.tv Team](https://www.gamedev.tv/) on [Udemy](https://www.udemy.com/) - [Link](https://www.udemy.com/course/unitycourse/)
