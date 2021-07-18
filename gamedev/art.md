@@ -10,9 +10,9 @@ Hey there! You probably know by now that I am an aspiring game developer and Uni
 
 I initially started with Piskel as a free tool for pixel art creations and soon switched to Aseprite. I don't have a lot of experience with creating tilesets yet but I use Pyxel Edit for tilesetting. 
 
-Below are some of my pieces of artwork. Since I've only started recently, there might not be a lot now. However, I will make sure to regularly update this page with my latest creations. You can freely use any of these images and their source files if you like - I would prefer that you give me credit, but I leave that to your choice.
+You can check out my artwork [here](https://github.com/omprabhu31/gamedev/blob/master/art/). Since I've only started recently, there might not be a lot now. However, I will make sure to regularly the repository with my latest creations. Have fun!
 
-**Note:** I will be adding in previews of some of my creations on this webpage shortly. Till then, feel free to browse the [art section of my github repository](https://github.com/omprabhu31/gamedev/blob/master/art/) to view or download any of my creations. Have fun!
+**Note:** Some of the creations were made during courses as practice work, and hence cannot be considered as original. Most of them, though, are my own creations.
 
 <h3>Completed Courses</h3>
 
@@ -21,8 +21,8 @@ Below are some of my pieces of artwork. Since I've only started recently, there 
 
 <h3>Ongoing Courses</h3>
 
-> <h4>Pixel Art Master Course - Beginner to Professional/Freelance</h4>
-> Offered by Mislav Majdandžić on [Udemy](https://www.udemy.com/) - [Link](https://www.udemy.com/course/pixel-art-master-course/)
-
 > <h4>Create Stunning Pixel Art Tilesets for Games</h4>
 > Offered by Benjamin Anderson on [Udemy](https://www.udemy.com/) - [Link](https://www.udemy.com/course/create-stunning-pixel-art-tilesets-for-games/)
+
+> <h4>Pixel Art Master Course - Beginner to Professional/Freelance</h4>
+> Offered by Mislav Majdandžić on [Udemy](https://www.udemy.com/) - [Link](https://www.udemy.com/course/pixel-art-master-course/)
