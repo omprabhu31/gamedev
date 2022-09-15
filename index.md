@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Game Dev
+title: Gamedev
 permalink: /
+feature-img: "assets/img/sample_feature_img_3.png"
 hide: true
 ---
 
