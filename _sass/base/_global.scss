@@ -22,6 +22,8 @@ html {
   background: $selection-color;
 }
 body {
+  text-align: justify;
+  text-justify: inter-character;
   color: $text-color;
   font-family: $font-family-main;
   font-size: $font-size;
