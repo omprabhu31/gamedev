@@ -1,4 +1,4 @@
-# Game Dev
+# Gamedev
 Welcome! You've reached my game dev repository. I am an aspiring game developer with a passion for 2D pixel art games (kinda like Celeste, Undertale and Spelunky). I mainly work in Unity and create beginner 2D pixel art in Piskel and Asperite. I have completed the Junior Programmer and Unity Essentials pathways on Unity Learn and am looking forward to learning a whole lot more!
 
 I constantly update this repo as and when I make new games and/or art. Feel free to have a look around - I have included the project files to some of the games as well. If you wish to contact me, you may use either [this anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSfG-jusOqOxokcExQO-CVaXXqkAf2rzybisQkBEiyBdj4-nTQ/viewform) (also available on my website) or any of the contact details [on this page](https://omprabhu31.github.io/contact/).
