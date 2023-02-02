@@ -10,9 +10,9 @@ Welcome to the gamedev section of my website. I'm a passionate gamer with a love
 
 I remember thinking to myself how incredible it would be making such interactive media. Initially, I thought it was would be a very specialized job and that it would be insanely difficult to develop games. However, to my surprise, I found it quite the contrary - there is a plethora of online resources and walkthroughs available for aspiring developers, both free and paid. I searched a bit and found that Unity was one of the easiest game engines to get started with, and here I am now!
 
-You can find links to my ongoing as well as completed courses (along with some notes) here: [Game Dev Courses](/gamedev/courses/)
+You can find links to some of the courses I've taken (along with some notes) here: [Game Dev Courses](/gamedev/courses/)
 
-Here is a compilation of all my projects so far: (links to some of the project files are also included): [Game Dev Projects](/gamedev/projects/)
+Here is a compilation of all my projects so far (links to some of the files are also included): [Game Dev Projects](/gamedev/projects/)
 
 Quite recently, I've also started creating 2D pixel art & animation. Have a look at some of my creations here (don't expect too much, I'm still a beginner :D): [Art & Animation](/gamedev/art/)
 
